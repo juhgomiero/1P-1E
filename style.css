@@ -1,10 +1,19 @@
-header{
-    background-color: darkred;
+    header{
+        background-color: darkred;
     color:white;
+    margin: 0px;
+    padding:30px;
+    border-radius: 20px;
+    display: flex;
+    align-items: center;
+    justify-self: space-between;
 }
+
+ 
 
 a{
     color:white;
+
 }
 
 
